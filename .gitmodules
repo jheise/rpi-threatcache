@@ -1,0 +1,3 @@
+[submodule "threatcache"]
+	path = threatcache
+	url = https://github.com/jheise/threatcache
